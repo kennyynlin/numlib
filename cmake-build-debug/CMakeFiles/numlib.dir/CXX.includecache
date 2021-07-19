@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mac/CLionProjects/numlib/numlib.cpp
+numlib.h
+/Users/mac/CLionProjects/numlib/numlib.h
+vector
+-
+cmath
+-
+cfloat
+-
+omp.h
+-
+
+/Users/mac/CLionProjects/numlib/numlib.h
+vector
+-
+
+/usr/local/include/omp.h
+stdlib.h
+-
+stdint.h
+-
+

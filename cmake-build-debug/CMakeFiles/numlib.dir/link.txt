@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libnumlib.dylib -install_name @rpath/libnumlib.dylib CMakeFiles/numlib.dir/numlib.cpp.o  /usr/local/lib/libomp.dylib 
