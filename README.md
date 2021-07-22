@@ -30,5 +30,7 @@ yValue = ds.gregoryNewton(6);
 ```
 yValue should also be 216.
 
+### Numerical Integration
+pending...
 ## Contributing
 Pull requests are welcome! Feel free to contact me via email.
