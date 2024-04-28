@@ -1,5 +1,5 @@
 # numlib
-This is a C++ numerical method library contains Least Square Polynomial Approximation, Gregory-Newton Interpolation, and Numerical Integration.
+A C++ numerical method library contains Least Square Polynomial Approximation, Gregory-Newton Interpolation, and Numerical Integration.
 
 ## Usage
 ```C++
